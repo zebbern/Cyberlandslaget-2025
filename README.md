@@ -1,7 +1,7 @@
-## Cyber ​​National Team Qualification 2025 Writeups
+## Cyber ​​National Team Qualification 2025 Solves
 
 <details>
-  <summary><h3>Forensics</h3></summary>
+  <summary><h3>Forensics</h3> <kbd>8 Challanges</kbd></summary>
 
 - **STRABA**  
 - **EFTERFORSKNINGEN**  
@@ -15,7 +15,7 @@
 </details>
 
 <details>
-  <summary><h3>Reverse Engineering</h3></summary>
+  <summary><h3>Reverse Engineering</h3> <kbd>6 Challanges</kbd></summary>
   
 - **OUTXORCING**  
 - **WHAT TIME IS IT?**  
@@ -27,7 +27,7 @@
 </details>
 
 <details>
-  <summary><h3>Cryptography</h3></summary>
+  <summary><h3>Cryptography</h3> <kbd>10 Challanges</kbd></summary>
 
 - **VIGENÈRE'S DICTIONARY**  
 - **LONG LIVE, CAESAR!**  
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-  <summary><h3>Binary</h3></summary>
+  <summary><h3>Binary</h3> <kbd>5 Challanges</kbd></summary>
 
 - **GOTOWIN**  
 - **PWN ME GOOD UWU**  
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-  <summary><h3>Web Exploitation</h3></summary>
+  <summary><h3>Web Exploitation</h3> <kbd>8 Challanges</kbd></summary>
 
 - **CROSS SITE JOB**  
 - **LEAKY STORE**  
@@ -69,7 +69,7 @@
 
 
 <details>
-  <summary><h3>Misc</h3></summary>
+  <summary><h3>Misc</h3> <kbd>8 Challanges</kbd></summary>
 
 - **MASAHIRO HARA**  
 - **THE PROFESSOR’S LOST NOTE**  
@@ -83,7 +83,7 @@
 </details>
 
 <details>
-  <summary><h3>Boot2Root</h3></summary>
+  <summary><h3>Boot2Root</h3> <kbd>2 Challanges</kbd></summary>
 
 - **THE GAUNTLET PT 1**  
 - **THE GAUNTLET PT 2**  
