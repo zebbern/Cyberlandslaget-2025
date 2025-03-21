@@ -1,11 +1,60 @@
-## Challange Topics 
- **[Forensics](#forensics)**
-  **[Reverse Engineering](#reverse-engineering)**
-   **[Cryptography](#cryptography)**
-    **[Binary](#binary)**
-     **[Web Exploitation](#web-exploitation)**
-      **[Misc](#misc)**
-       **[Boot2Root](#boot2root)**
+## Challenge Topics 
+- **[Forensics](#forensics)**
+  - **[STRABA](#straba)**
+  - **[EFTERFORSKNINGEN](#efterforskningen)**
+  - **[PING-SWEEP](#ping-sweep)**
+  - **[COVERTCHANNEL2](#covertchannel2)**
+  - **[COVERTCHANNEL1](#covertchannel1)**
+  - **[COVERTCHANNEL3](#covertchannel3)**
+  - **[FDE-BOOTLOADER](#fde-bootloader)**
+  - **[FUTURISTIC MALWARE](#futuristic-malware)**
+- **[Reverse Engineering](#reverse-engineering)**
+  - **[OUTXORCING](#outxorcing)**
+  - **[WHAT TIME IS IT?](#what-time-is-it)**
+  - **[PASSPROTECTOR](#passprotector)**
+  - **[STERN BROCCOLI](#stern-broccoli)**
+  - **[NOTEPADLAUNCHER](#notepadlauncher)**
+  - **[DDCLE](#ddcle)**
+- **[Cryptography](#cryptography)**
+  - **[VIGENÈRE'S DICTIONARY](#vigenères-dictionary)**
+  - **[LONG LIVE, CAESAR!](#long-live-caesar)**
+  - **[AES DECRYPTION](#aes-decryption)**
+  - **[BINARY-ENCODINGS1](#binary-encodings1)**
+  - **[DLOG](#dlog)**
+  - **[RSA2](#rsa2)**
+  - **[BINARY-ENCODINGS2](#binary-encodings2)**
+  - **[LEARNING WHAT EXISTS](#learning-what-exists)**
+  - **[DLOG 2](#dlog-2)**
+  - **[AUTHENTICATED PRIVILEGE 2, SYMMETRIC PSYDUCKS RETURN!](#authenticated-privilige-2-symmetric-psyducks-return)**
+
+- **[Binary](#binary)**
+  - **[GOTOWIN](#gotowin)**
+  - **[PWN ME GOOD UWU](#pwn-me-good-uwu)**
+  - **[ROPLICATOR](#roplicator)**
+  - **[PWN ME GOOD UWU - WIFU EDITION](#pwn-me-good-uwu---wifu-edition)**
+  - **[EZWIN](#ezwin)**
+- **[Web Exploitation](#web-exploitation)**
+  - **[CROSS SITE JOB](#cross-site-job)**
+  - **[LEAKY STORE](#leaky-store)**
+  - **[COMPLETE STYLING SADNESS](#complete-styling-sadness)**
+  - **[FIND FRONTDOOR](#find-frontdoor)**
+  - **[DDC LOUNGE](#ddc-lounge)**
+  - **[FILM TIL DIG PT 1](#film-til-dig-pt-1)**
+  - **[FILM TIL DIG PT 2](#film-til-dig-pt-2)**
+  - **[PHP101](#php101)**
+- **[Misc](#misc)**
+  - **[MASAHIRO HARA](#masahiro-hara)**
+  - **[THE PROFESSOR’S LOST NOTE](#the-professors-lost-note)**
+  - **[SHUTTER TRACE](#shutter-trace)**
+  - **[HASHER IS BACK](#hasher-is-back)**
+  - **[DDC ADMIN BOT](#ddc-admin-bot)**
+  - **[ROLL YOUR OWN CRYPTO](#roll-your-own-crypto)**
+  - **[MAX 420](#max-420)**
+  - **[MAX 69](#max-69)**
+- **[Boot2Root](#boot2root)**
+  - **[THE GAUNTLET PT 1](#the-gauntlet-pt-1)**
+  - **[THE GAUNTLET PT 2](#the-gauntlet-pt-2)**
+
        
 
 
