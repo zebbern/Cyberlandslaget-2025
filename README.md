@@ -1,4 +1,4 @@
-## Cyber ​​National Team Qualification 2025 Solves
+## Qualification 2025 Solves
 
 <details>
   <summary><h3>Forensics</h3> <kbd>8 Challanges</kbd></summary>
