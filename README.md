@@ -1,7 +1,5 @@
 ### Cyber ​​National Team Qualification 2025 Writeups
 
-<h6>Challenges Given out:</h6>
-
 <details>
   <summary><h2>Forensics</h2></summary>
 
