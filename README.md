@@ -33,7 +33,7 @@
   
 > 6 Challanges 
 
-- **OUTXORCING**  
+- [**OUTXORCING**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Reverse%20Engineering/outXORcing/outXORcing.md)  
 - **WHAT TIME IS IT?**  
 - **PASSPROTECTOR**  
 - [**STERN BROCCOLI**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Reverse%20Engineering/Stern%20Broccoli/Stern%20Broccoli.pdf)  
@@ -48,13 +48,13 @@
 > 10 Challanges 
 
 - **VIGENÈRE'S DICTIONARY**  
-- **LONG LIVE, CAESAR!**  
+- [**LONG LIVE, CAESAR!**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Cryptography/Long%20live%20Caesar/Long%20live%20Caesar.md)  
 - **AES DECRYPTION**  
-- **BINARY-ENCODINGS1**  
+- [**BINARY-ENCODINGS1**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Cryptography/Binary-Encodings1/Binary-Encodings1.md)
+- [**BINARY-ENCODINGS2**](https://github.com/zebbern/Cyberlandslaget-2025/tree/main/Cryptography/crypto_Binary-Encodings2)    
 - [**DLOG**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Cryptography/dlog/dlog.pdf)
 - [**DLOG 2**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Cryptography/dlog2/dlog2.pdf) 
 - **RSA2**  
-- [**BINARY-ENCODINGS2**](https://github.com/zebbern/Cyberlandslaget-2025/tree/main/Cryptography/crypto_Binary-Encodings2)  
 - **LEARNING WHAT EXISTS**    
 - **AUTHENTICATED PRIVILEGE 2, SYMMETRIC PSYDUCKS RETURN!**  
 
@@ -80,7 +80,7 @@
 
 - **CROSS SITE JOB**  
 - **LEAKY STORE**  
-- **COMPLETE STYLING SADNESS**  
+- [**COMPLETE STYLING SADNESS**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Web%20Exploitation/Complete%20Styling%20Sadness/Complete%20Styling%20Sadness.md)  
 - **FIND FRONTDOOR**  
 - **DDC LOUNGE**  
 - [**FILM TIL DIG PT 1**](https://blog.r4.dk/posts/film-til-dig/)  
@@ -131,6 +131,7 @@
 | R4              | `0xlimE`    | [Blog – Film Til Dig Writeup](https://blog.r4.dk/posts/film-til-dig/) <br> <br> ␥ Film Til Dig part 1 <br> ␥ Film Til Dig part 2 |
 | noisedk         | `noisedk`      | [GitLab Snippet – CTF Writeups](https://gitlab.com/-/snippets/4827407) <br> <br> ␥ Covert Channel 3 <br>|
 | marko213        | `marko312`     | [GitHub – DDC Quals 2025 Writeups](https://github.com/marko213/ctf-writeups/tree/main/2025/DDC-quals/crypto_Binary-Encodings2) <br> <br> ␥ Binary-Encodings2 <br>|
+| zebbern        | `cc_pz`     |  **Contributions**<br> <br> ␥ Binary-Encodings1 <br>␥ outXORcing <br>␥ Complete Styling Sadness <br>␥ Long live, Caesar! <br>|
 
 ---
 
