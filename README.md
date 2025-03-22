@@ -124,13 +124,13 @@
 
 > Huge thanks to the following contributors and sources whose writeups or insights were referenced in this repository:
 
-| Contributor     | Discord Handle | Source / Reference |
+| Contributor     | Discord Handle | Source / Reference / Material |
 |----------------|----------------|---------------------|
-| noisedk         | `noisedk`      | [GitLab Snippet – CTF Writeups](https://gitlab.com/-/snippets/4827407) |
-| marko213        | `marko312`     | [GitHub – DDC Quals 2025 Writeups](https://github.com/marko213/ctf-writeups/tree/main/2025/DDC-quals/crypto_Binary-Encodings2) |
-| MartenPK          | `MartenPK`       | Private contributions via Discord *ECSCPrequalWriteups.tar* |
-| R4              | `0xlimE`    | [Blog – Film Til Dig Writeup](https://blog.r4.dk/posts/film-til-dig/) |
-| lilliefox       | `lilliefox`    | [CTF Archive – Nordics DDC ECSC 2025](https://ctf.lillie.sh/archive/tag/nordics-ddc-ecsc-2025/) |
+| MartenPK          | `MartenPK`       | Private contributions via Discord *ECSCPrequalWriteups.tar* <br> <br> ␥ dlog1 <br> ␥ dlog1 <br> ␥ dlog2 <br> ␥ covertchannel2 <br> ␥ DDC Admin Bot <br> ␥ Max 420 <br> ␥ Roll your own crypto <br> ␥ gotowin <br> ␥ Pwn Me Good Uwu <br> ␥ Pwn Me Good Uwu Wifu Edition <br> ␥ ROPlicator <br> ␥ DDCLE <br> ␥ Stern Broccoli <br> |
+| lilliefox       | `lilliefox`    | [CTF Archive – Nordics DDC ECSC 2025](https://ctf.lillie.sh/archive/tag/nordics-ddc-ecsc-2025/) <br> <br> ␥ fde-bootloader <br> ␥ Futuristic Malware <br> ␥ The Gauntlet part 1 <br> ␥ The Gauntlet part 2 <br> ␥ Max69 <br> |
+| R4              | `0xlimE`    | [Blog – Film Til Dig Writeup](https://blog.r4.dk/posts/film-til-dig/) <br> <br> ␥ Film Til Dig part 1 <br> ␥ Film Til Dig part 2 |
+| noisedk         | `noisedk`      | [GitLab Snippet – CTF Writeups](https://gitlab.com/-/snippets/4827407) <br> <br> ␥ Covert Channel 3 <br>|
+| marko213        | `marko312`     | [GitHub – DDC Quals 2025 Writeups](https://github.com/marko213/ctf-writeups/tree/main/2025/DDC-quals/crypto_Binary-Encodings2) <br> <br> ␥ Binary-Encodings2 <br>|
 
 ---
 
