@@ -32,7 +32,7 @@ In this challenge, we’re given 32 pairs of \((p_i, f_i)\) values. Each \(p_i\)
    - Parse the remaining `"1010..."` as a binary number.
    - Convert that binary number into 31 bytes (since the original flag is 31 bytes).
 
-## Step-by-Step (Beginner Friendly)
+## Step-by-Step
 
 1. **Read the pairs**: Copy all \(p_i\) (primes) and \(f_i\) (remainders) from `output.txt`.
 2. **Apply CRT**: Use a standard CRT function or implement it yourself:
