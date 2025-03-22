@@ -1,3 +1,8 @@
+## Original Writeup From lillieCan Taken From:
+
+<code>[**https://ctf.lillie.sh/blog/misc/the-gauntlet-p2/**](https://ctf.lillie.sh/blog/misc/the-gauntlet-p2/)</code> 
+
+<br>
 
 # The Gauntlet - Part 2
 
