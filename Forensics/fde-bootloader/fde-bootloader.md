@@ -1,3 +1,8 @@
+## Original Writeup From lillieCan Taken From:
+
+<code>[**https://ctf.lillie.sh/blog/forensics/fde-bootloader/**](https://ctf.lillie.sh/blog/forensics/fde-bootloader/)</code> 
+
+<br>
 
 # fde-bootloader
 
@@ -15,7 +20,7 @@ If you would like to just read the steps to get the flag, then scroll to the bot
 
 ---
 
-## 🧐 First look — Gather Information
+## First look — Gather Information
 
 Started by running common forensics commands:
 
@@ -35,7 +40,7 @@ FreeDOS kernel version %d.%d.%d
 
 ---
 
-## 🖥️ Running the Emulator
+## Running the Emulator
 
 Executed the QEMU script:
 
@@ -56,7 +61,7 @@ So it’s a bootloader that decrypts the disk.
 
 ---
 
-## 🕳️ Rabbit Holes — Reverse Engineering the Bootloader
+## Rabbit Holes — Reverse Engineering the Bootloader
 
 Tried reverse engineering the bootloader, but it’s 16-bit. Tools like IDA don’t decompile 16-bit code well.
 
@@ -70,7 +75,7 @@ Looked into Segphault — related to Danish CTFs like NC3, but nothing helpful f
 
 ---
 
-## 📚 Research & Key Discovery
+## Research & Key Discovery
 
 Discovered the tool `AESKeyFind` through this writeup:  
 https://g0blin.co.uk/hack-lu-ctf-2015-dr-bob-writeup/
@@ -88,7 +93,7 @@ Suspected ESSIV (Encrypted Salt-Sector Initialization Vector) encryption.
 
 ---
 
-## 🧪 Decryption using ESSIV
+## Decryption using ESSIV
 
 Found this repo implementing `aes-cbc-essiv`:  
 https://github.com/trounce1/Android-AES/blob/master/android_aes.py
@@ -105,7 +110,7 @@ Notes:
 
 ---
 
-## ❌ Another Rabbit Hole
+## Another Rabbit Hole
 
 Mounted the decrypted image:
 
@@ -119,7 +124,7 @@ Assumed flag was hidden in sprites or mods — incorrect. Both games were origin
 
 ---
 
-## 🏁 Finding the Flag
+## Finding the Flag
 
 Copied the decrypted image to a Windows VM and opened in **Autopsy**.
 
@@ -155,7 +160,7 @@ Translated:
 
 ---
 
-## 💬 Final Thoughts
+## Final Thoughts
 
 - Enjoyed the challenge, especially learning about MS-DOS and disk encryption.
 - Slight frustration around flag format and lack of offline verification.
@@ -164,7 +169,7 @@ Translated:
 
 ---
 
-## ✅ TLDR
+## TLDR
 
 - Use `AESKeyFind` on `mem.dump` to extract two AES keys.
 - Research AES-CBC-ESSIV — use https://github.com/trounce1/Android-AES/blob/master/android_aes.py
