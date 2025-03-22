@@ -1,30 +1,43 @@
-<h2 align=center>Forensics</h2>
+## Table of Contents
+
+- [Forensics](#forensics)
+- [Reverse Engineering](#reverse-engineering)
+- [Cryptography](#cryptography)
+- [Binary](#binary)
+- [Web Exploitation](#web-exploitation)
+- [Misc](#misc)
+- [Boot2Root](#boot2root)
+- [Credits & References](#credits--references)
+
+
+<h2 >Forensics</h2>
 
 - **STRABA**  
 - **EFTERFORSKNINGEN**  
-- **PING-SWEEP**  
-- **COVERTCHANNEL2**  
+- **PING-SWEEP**
+- [**FDE-BOOTLOADER**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Forensics/fde-bootloader/fde-bootloader.md)  
+- [**FUTURISTIC MALWARE**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Forensics/Futuristic%20Malware/futuristic-malware.md)  
 - **COVERTCHANNEL1**  
-- **COVERTCHANNEL3**  
-- **FDE-BOOTLOADER**  
-- **FUTURISTIC MALWARE**  
+- [**COVERTCHANNEL2**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Forensics/covertchannel2/covertchannel2.pdf)  
+- [**COVERTCHANNEL3**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Forensics/COVERTCHANNEL3/COVERTCHANNEL3.md)  
+
 
 <br>
 
 
-  <h2 align=center>Reverse Engineering</h2> 
+  <h2 >Reverse Engineering</h2> 
   
 - **OUTXORCING**  
 - **WHAT TIME IS IT?**  
 - **PASSPROTECTOR**  
-- **STERN BROCCOLI**  
+- [**STERN BROCCOLI**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Reverse%20Engineering/Stern%20Broccoli/Stern%20Broccoli.pdf)  
 - **NOTEPADLAUNCHER**  
-- **DDCLE**  
+- [**DDCLE**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Reverse%20Engineering/DDCLE/DDCLE.pdf)  
+
+<br>
 
 
-
-
-  <h2 align=center>Cryptography</h2> 
+  <h2 >Cryptography</h2> 
 
 - **VIGENÈRE'S DICTIONARY**  
 - **LONG LIVE, CAESAR!**  
@@ -38,9 +51,9 @@
 - **AUTHENTICATED PRIVILEGE 2, SYMMETRIC PSYDUCKS RETURN!**  
 
 
+<br>
 
-
-  <h2 align=center>Binary</h2> 
+  <h2 >Binary</h2> 
 
 - [**GOTOWIN**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Binary/gotowin/gotowin.pdf)
 - [**PWN ME GOOD UWU**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Binary/Pwn%20Me%20Good%20Uwu/Pwn%20Me%20Good%20Uwu.pdf)   
@@ -49,38 +62,38 @@
 - **EZWIN**
 
 
+<br>
 
-
-  <h2 align=center>Web Exploitation</h2> 
+  <h2 >Web Exploitation</h2> 
 
 - **CROSS SITE JOB**  
 - **LEAKY STORE**  
 - **COMPLETE STYLING SADNESS**  
 - **FIND FRONTDOOR**  
 - **DDC LOUNGE**  
-- **FILM TIL DIG PT 1**  
-- **FILM TIL DIG PT 2**  
+- [**FILM TIL DIG PT 1**](https://blog.r4.dk/posts/film-til-dig/)  
+- [**FILM TIL DIG PT 2**](https://blog.r4.dk/posts/film-til-dig/)  
 - **PHP101**  
 
 
+<br>
 
 
-
-  <h2 align=center>Misc</h2> 
+  <h2 >Misc</h2> 
 
 - **MASAHIRO HARA**  
 - **THE PROFESSOR’S LOST NOTE**  
 - **SHUTTER TRACE**  
 - **HASHER IS BACK**  
-- **DDC ADMIN BOT**  
-- **ROLL YOUR OWN CRYPTO**  
-- **MAX 420**  
-- **MAX 69**
+- [**DDC ADMIN BOT**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Misc/DDC%20Admin%20Bot/DDC%20Admin%20Bot.pdf)  
+- [**ROLL YOUR OWN CRYPTO**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Misc/Roll%20your%20own%20crypto/Roll%20your%20own%20crypto.pdf)  
+- [**MAX 420**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Misc/Max%20420/Max%20420.pdf)  
+- [**MAX 69**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Misc/Max%2069/max-69.md)
+
+<br>
 
 
-
-
-  <h2 align=center>Boot2Root</h2> 
+  <h2 >Boot2Root</h2> 
 
 - [**THE GAUNTLET PT 1**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Boot2root/the-gauntlet-part-1/the-gauntlet-part-1.md)
 - [**THE GAUNTLET PT 2**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Boot2root/the-gauntlet-part-2/the-gauntlet-part-2.md)
