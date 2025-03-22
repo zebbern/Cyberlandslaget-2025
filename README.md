@@ -128,9 +128,8 @@
 |----------------|----------------|---------------------|
 | noisedk         | `noisedk`      | [GitLab Snippet – CTF Writeups](https://gitlab.com/-/snippets/4827407) |
 | marko213        | `marko312`     | [GitHub – DDC Quals 2025 Writeups](https://github.com/marko213/ctf-writeups/tree/main/2025/DDC-quals/crypto_Binary-Encodings2) |
-| MartenPK        | `MartenPK`     | Private contributions via Discord |
-| 0xlime          | `0xlime`       | *ECSCPrequalWriteups.tar* |
-| R4              | `lilliefox`    | [Blog – Film Til Dig Writeup](https://blog.r4.dk/posts/film-til-dig/) |
+| MartenPK          | `MartenPK`       | Private contributions via Discord *ECSCPrequalWriteups.tar* |
+| R4              | `0xlimE`    | [Blog – Film Til Dig Writeup](https://blog.r4.dk/posts/film-til-dig/) |
 | lilliefox       | `lilliefox`    | [CTF Archive – Nordics DDC ECSC 2025](https://ctf.lillie.sh/archive/tag/nordics-ddc-ecsc-2025/) |
 
 ---
