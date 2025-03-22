@@ -1,7 +1,4 @@
-## Qualification 2025 Solves
-
-<details>
-  <summary><h3>Forensics</h3> <kbd>8 Challanges</kbd></summary>
+<h2 align=center>Forensics</h2>
 
 - **STRABA**  
 - **EFTERFORSKNINGEN**  
@@ -12,10 +9,10 @@
 - **FDE-BOOTLOADER**  
 - **FUTURISTIC MALWARE**  
 
-</details>
+<br>
 
-<details>
-  <summary><h3>Reverse Engineering</h3> <kbd>6 Challanges</kbd></summary>
+
+  <h2 align=center>Reverse Engineering</h2> 
   
 - **OUTXORCING**  
 - **WHAT TIME IS IT?**  
@@ -24,37 +21,37 @@
 - **NOTEPADLAUNCHER**  
 - **DDCLE**  
 
-</details>
 
-<details>
-  <summary><h3>Cryptography</h3> <kbd>10 Challanges</kbd></summary>
+
+
+  <h2 align=center>Cryptography</h2> 
 
 - **VIGENÈRE'S DICTIONARY**  
 - **LONG LIVE, CAESAR!**  
 - **AES DECRYPTION**  
 - **BINARY-ENCODINGS1**  
-- **DLOG**  
+- [**DLOG**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Cryptography/dlog/dlog.pdf)
+- [**DLOG 2**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Cryptography/dlog2/dlog2.pdf) 
 - **RSA2**  
-- **BINARY-ENCODINGS2**  
-- **LEARNING WHAT EXISTS**  
-- **DLOG 2**  
+- [**BINARY-ENCODINGS2**](https://github.com/zebbern/Cyberlandslaget-2025/tree/main/Cryptography/crypto_Binary-Encodings2)  
+- **LEARNING WHAT EXISTS**    
 - **AUTHENTICATED PRIVILEGE 2, SYMMETRIC PSYDUCKS RETURN!**  
 
-</details>
 
-<details>
-  <summary><h3>Binary</h3> <kbd>5 Challanges</kbd></summary>
 
-- **GOTOWIN**  
-- **PWN ME GOOD UWU**  
-- **ROPLICATOR**  
-- **PWN ME GOOD UWU - WIFU EDITION**  
+
+  <h2 align=center>Binary</h2> 
+
+- [**GOTOWIN**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Binary/gotowin/gotowin.pdf)
+- [**PWN ME GOOD UWU**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Binary/Pwn%20Me%20Good%20Uwu/Pwn%20Me%20Good%20Uwu.pdf)   
+- [**PWN ME GOOD UWU - WIFU EDITION**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Binary/Pwn%20Me%20Good%20Uwu%20Wifu%20Edition/Pwn%20Me%20Good%20Uwu%20Wifu%20Edition.pdf)
+- [**ROPLICATOR**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Binary/ROPlicator/ROPlicator.pdf)
 - **EZWIN**
 
-</details>
 
-<details>
-  <summary><h3>Web Exploitation</h3> <kbd>8 Challanges</kbd></summary>
+
+
+  <h2 align=center>Web Exploitation</h2> 
 
 - **CROSS SITE JOB**  
 - **LEAKY STORE**  
@@ -65,11 +62,11 @@
 - **FILM TIL DIG PT 2**  
 - **PHP101**  
 
-</details>
 
 
-<details>
-  <summary><h3>Misc</h3> <kbd>8 Challanges</kbd></summary>
+
+
+  <h2 align=center>Misc</h2> 
 
 - **MASAHIRO HARA**  
 - **THE PROFESSOR’S LOST NOTE**  
@@ -80,15 +77,15 @@
 - **MAX 420**  
 - **MAX 69**
 
-</details>
 
-<details>
-  <summary><h3>Boot2Root</h3> <kbd>2 Challanges</kbd></summary>
 
-- **THE GAUNTLET PT 1**  
-- **THE GAUNTLET PT 2**  
 
-</details>
+  <h2 align=center>Boot2Root</h2> 
+
+- [**THE GAUNTLET PT 1**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Boot2root/the-gauntlet-part-1/the-gauntlet-part-1.md)
+- [**THE GAUNTLET PT 2**](https://github.com/zebbern/Cyberlandslaget-2025/blob/main/Boot2root/the-gauntlet-part-2/the-gauntlet-part-2.md)
+
+
 
 ---
 
