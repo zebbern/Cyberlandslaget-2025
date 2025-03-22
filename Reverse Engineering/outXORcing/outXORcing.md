@@ -92,5 +92,3 @@ you retrieve the flag:
 ```
 DDC{x0r_is_r3v3rsibl3}
 ```
-
-This complete writeup should allow anyone to reproduce the result without additional modifications. Enjoy the challenge and happy hacking!
